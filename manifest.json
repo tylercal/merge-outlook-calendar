@@ -3,7 +3,7 @@
 
   "name": "Merge Outlook Calendar",
   "description": "Select the merge view by default when using outlook web calendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "icons": {
     "16": "images/logo-16.png",
